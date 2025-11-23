@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AvitoTest</string>
+
+    <!-- Upload Screen -->
+    <string name="upload_screen_title">Загрузка книги</string>
+    <string name="upload_file_label">Выбранный файл</string>
+    <string name="upload_select_file_button">Выбрать файл</string>
+    <string name="upload_title_label">Название книги</string>
+    <string name="upload_author_label">Автор</string>
+    <string name="upload_upload_button">Загрузить</string>
+    <string name="upload_progress">Загрузка: </string>
+    <string name="upload_success_message">Книга успешно загружена!</string>
+    <string name="upload_error_message">Ошибка: </string>
+    <string name="upload_retry_button">Повторить</string>
+    <string name="upload_go_to_books">Перейти к книгам</string>
+    <string name="upload_error_select_file">Пожалуйста, выберите файл</string>
+    <string name="upload_error_enter_details">Пожалуйста, введите название и автора</string>
+    <string name="upload_error_unsupported_file_type">Неподдерживаемый тип файла. Разрешены только .txt, .epub, .pdf.</string>
+    <string name="upload_error_not_authenticated">Пользователь не авторизован</string>
+    <string name="upload_error_failed_to_save_metadata">Не удалось сохранить метаданные</string>
+</resources>
